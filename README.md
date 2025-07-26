@@ -63,18 +63,19 @@ This project helps users to manage their daily tasks, add new ones, and remove c
 ---
 
 
-## 📬 Let's Connect!
+## 📬 Let's Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/umra-mirza-4525962a2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Umra%20Mirza-blue?style=for-the-badge&logo=linkedin" />
+<p align="center">
+  <a href="mailto:mirzaumra0@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-mirzaumra0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:mirzaumra0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/umra-mirza-4525962a2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Umra%20Mirza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
----
+<p align="center">Feel free to reach out for collaboration, learning, or just to say hi! 😊</p>
 
 <p align="center">
   🚀 *"Consistency beats talent when talent doesn't work hard!"*
