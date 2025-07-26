@@ -37,8 +37,9 @@ Currently pursuing my BCA (3rd Year) from Invertis University and building hands
 > A clean and responsive sidebar layout using HTML and CSS. Ideal for dashboards or menus.
 
 <!-- Add more projects like this below -->
-### 🔹 [To Do App]()
-> *(Describe your second project here)*
+### 🔹 [To Do App](https://umramirza.github.io/To-Do-List/)
+> A clean, minimal, and interactive **To-Do List** web application made using **HTML**, **CSS**, and **JavaScript**.  
+This project helps users to manage their daily tasks, add new ones, and remove completed items easily.  
 
 ---
 
@@ -62,16 +63,23 @@ Currently pursuing my BCA (3rd Year) from Invertis University and building hands
 ---
 
 
-<p align="center">
-  🚀 *"Consistency beats talent when talent doesn't work hard!"*
-</p>
-/" target="_blank">
+## 📬 Let's Connect!
+
+<p>
+  <a href="https://www.linkedin.com/in/umra-mirza-4525962a2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Umra%20Mirza-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:mirzaumra0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
+
+<p align="center">
+  🚀 *"Consistency beats talent when talent doesn't work hard!"*
+</p>
+
 
 ---
 
