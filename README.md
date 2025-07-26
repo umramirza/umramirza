@@ -3,16 +3,16 @@
 
 <p align="center">
 🌟 I'm a curious learner and creative developer based in Bareilly, India.  
-Currently pursuing my BCA (2nd Year) from Invertis University and building hands-on skills in web development.
+Currently pursuing my BCA (3rd Year) from Invertis University and building hands-on skills in web development.
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 I'm a second-year student at **Invertis University**, pursuing **BCA**
+- 🎓 I'm a third-year student at **Invertis University**, pursuing **BCA**
 - 💻 I love creating **responsive frontend designs**
-- 🧠 Currently exploring **React.js**, **SQL**, and **Git version control**
+- 🧠 Currently exploring **MERN stack**
 - 📚 Always eager to learn new tech, tools, and frameworks
 - 🏆 Looking forward to internships and real-world experience
 
