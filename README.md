@@ -67,8 +67,8 @@ This project helps users to manage their daily tasks, add new ones, and remove c
 
 <p align="center">
   <a href="mailto:mirzaumra0@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-mirzaumra0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Gmail-mirzaumra0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   &nbsp;
   <a href="https://www.linkedin.com/in/umra-mirza-4525962a2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Umra%20Mirza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
