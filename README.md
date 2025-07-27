@@ -39,7 +39,11 @@ Currently pursuing my BCA (3rd Year) from Invertis University and building hands
 <!-- Add more projects like this below -->
 ### 🔹 [To Do App](https://umramirza.github.io/To-Do-List/)
 > A clean, minimal, and interactive **To-Do List** web application made using **HTML**, **CSS**, and **JavaScript**.  
-This project helps users to manage their daily tasks, add new ones, and remove completed items easily.  
+This project helps users to manage their daily tasks, add new ones, and remove completed items easily.
+
+
+### 🔹 [Simon-Says-Game]( https://umramirza.github.io/Simon-says-game/)
+>**Simon Says** is a classic memory-based browser game built with **HTML, CSS, and JavaScript**. The player must repeat an ever-growing sequence of colored buttons shown on the screen. With every successful round, the sequence gets longer — testing your memory and focus.
 
 ---
 
