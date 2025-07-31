@@ -33,13 +33,12 @@ Currently pursuing my BCA (3rd Year) from Invertis University and building hands
 
 ## 🌐 Projects
 
-### 🔹 [Sidebar Menu](https://umramirza.github.io/Sidebar-menu/)
-> A clean and responsive sidebar layout using HTML and CSS. Ideal for dashboards or menus.
+### 🔹 [Currency Converter](https://umramirza.github.io/Currency-Converter/)
+> A real-time, beginner-friendly Currency Converter web application built using **HTML**, **CSS**, and **JavaScript**. It allows users to convert between major global currencies using **live exchange rates**, and shows **country flags** dynamically based on selected currencies.
 
 <!-- Add more projects like this below -->
-### 🔹 [To Do App](https://umramirza.github.io/To-Do-List/)
-> A clean, minimal, and interactive **To-Do List** web application made using **HTML**, **CSS**, and **JavaScript**.  
-This project helps users to manage their daily tasks, add new ones, and remove completed items easily.
+### 🔹 [Tic-Tac-Toe-Game](https://umramirza.github.io/Tic-Tac-Toe-Game/)  
+> A simple and interactive **Tic Tac Toe** game built using HTML, CSS, and JavaScript. Play the classic Xs and Os game in your browser against a friend!
 
 
 ### 🔹 [Simon-Says-Game]( https://umramirza.github.io/Simon-says-game/)
