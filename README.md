@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Umra Mirza</h1>
+<!-- <h1 align="center">Hi 👋, I'm Umra Mirza</h1>
 <h3 align="center">A Passionate Frontend Developer & BCA Student</h3>
 
 <p align="center">
@@ -88,4 +88,144 @@ Currently pursuing my BCA (3rd Year) from Invertis University and building hands
 ---
 
 
+ -->
+<!-- 🌈 PREMIUM HEADER -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=Umra%20Mirza&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h1 align="center">👩‍💻 Hi, I'm Umra Mirza</h1>
+<h3 align="center">🚀 Full Stack Developer | 🤖 AI Enthusiast | 🎓 BCA Student</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;AI+Powered+Project+Builder;Full+Stack+Web+Developer;Building+Production+Level+Applications;Always+Learning+%26+Growing" />
+</p>
+
+---
+
+## 💫 👩‍💻 About Me
+
+✨ Passionate and self-driven **Full Stack Developer** with hands-on experience in building real-world applications
+💡 Strong in **MERN Stack, REST APIs, and AI integrations**
+🚀 Experienced in developing **production-level projects with authentication, payments, and admin systems**
+📈 Focused on writing clean, scalable, and maintainable code
+⚡ Constantly exploring new technologies and improving problem-solving skills
+
+---
+
+## ⚙️ 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,python,html,css,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,git,github,vscode,postman,npm"/>
+</p>
+
+---
+
+## 🚀 💎 Featured Projects
+
+### 🤖 AI Interview Agent
+
+🔗 <a href="https://interviewiq-ai-client-1lxj.onrender.com/">🌐 Live Demo</a>
+🔗 <a href="https://github.com/umramirza/InterviewIQ.AI">💻 GitHub Code</a>
+
+✨ AI-powered interview preparation platform
+🎤 Real-time mock interviews (voice + text interaction)
+📊 Automated performance reports with downloadable PDF
+💳 Razorpay payment integration (credit-based system)
+🛠️ Admin dashboard for monitoring users and sessions
+🔐 Authentication system with user dashboard & history tracking
+
+---
+
+### 🌍 Wanderlust – Travel Listing Platform
+
+🔗 <a href="https://wanderlust-ohc1.onrender.com/">🌐 Live Demo</a>
+🔗 <a href="https://github.com/umramirza/WanderLust">💻 GitHub Code</a>
+
+🏡 Full-stack travel listing platform with complete CRUD functionality
+🖼️ Cloudinary integration for image upload and optimization
+🗺️ Mapbox integration for real-time location display
+🔐 Authentication & authorization using Passport.js
+⭐ Reviews and ratings system with MongoDB data persistence
+🏗️ Structured using MVC architecture for scalability
+
+---
+
+## 📊 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umramirza&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umramirza&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+</p>
+
+---
+
+## 📊 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umramirza&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 📈 💻 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umramirza&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 🎖️ Achievements & Highlights
+
+🏅 Smart India Hackathon Participant (UI Developer)
+🏗️ Built multiple production-level full-stack web applications independently
+📜 Earned certifications from IBM & AICTE
+🚀 Developed projects integrating AI, payment systems, and cloud services
+
+---
+
+## 🌱 📚 Currently Learning
+
+🔹 Advanced Backend Development
+🔹 System Design Fundamentals
+🔹 AI & Machine Learning Integration
+
+---
+
+## 🧠 💡 Core Strengths
+
+✔ Problem Solving
+✔ Clean Code Practices
+✔ API Integration
+✔ Full Stack Development
+✔ Continuous Learning
+
+---
+
+## 🤝 💌 Connect With Me
+
+<p align="center">
+<a href="mailto:mirzaumra0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/umra-mirza-4525962a2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/umramirza"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## ✨ 💭 Quote
+
+🌟 *"Code. Build. Improve. Repeat. Success follows consistency."* 🌟
+
+---
+
+<p align="center">
+  💖 Thank you for visiting my profile 💖
+</p>
+
+<!-- 🌊 FOOTER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=130&section=footer"/>
+</p>
